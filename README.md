@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Trackfy](https://trackfyapp.com.br)
 
-- ▶️ I (not) regularly post videos on (https://youtube.com/trackfy)
+- ▶️ I (not) regularly post videos on (https://www.youtube.com/@trackfy5641)
 
 - 💬 I'm currently sutdying **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
 
